@@ -1,3 +1,6 @@
+NOTE: This is not the authoritative/original source for the finicity gem available on rubygems.org.
+While the commits here are based on an unbundling of the gem, there are no other sources available.
+
 finicity
 ========
 
